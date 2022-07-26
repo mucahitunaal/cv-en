@@ -3,192 +3,211 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Mücahit Ünal
+    tagline: Elektrik-Elektronik Mühendisi
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: mucahitunaal@gmail.com
+    phone: 0535 329 69 96
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website:
+    linkedin: mucahitunal
+    xing:
+    github: mucahitunaal
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: İngilizce
+        level: B1
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Almanca
+        level: A1
 
     interests:
-      - item: Climbing
+      - item: Teknoloji
         link:
 
-      - item: Snowboarding
+      - item: Satranç
         link:
 
-      - item: Cooking
+      - item: Kamping
         link:
 
 career-profile:
-    title: Career Profile
+    title: HAKKIMDA
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      10.10.1997 tarihinde Gebze’de doğdum. Gebze’de ailemle birlikte ikamet etmekteyim. Sürekli olarak geliştirmeyi, araştırmayı seven ve öğrenmeye hevesli birisiyim.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Elektrik-Elektronik Mühendisliği
+      university: Süleyman Demirel Üniversitesi
+      time: 2015 - 2019
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Ar-Ge / Stajyer
+      time: 06.2018 - 09.2018
+      company: Robsen Robotics,GOSB Teknopark/Kocaeli
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Bölümümüzde bulunan 30 günlük stajımı bu firmada
+        tamamladım. Burada ROS (Robot Operating System) ve iyi
+        seviyede Python dilini öğrendim. Zorunlu stajım 30 gün olmasına
+        rağmen gönüllü olarak 90 gün staj yaptım. Staj boyunca yalnızca
+        kameralardan aldığı datalara göre path belirleyen, görüntü
+        işleme temelli, Raspberry Pi ve ROS tabanlı bir otonom araç
+        tasarladım. Bu proje sayesinde ileri seviyede görüntü
+        işleme,Raspberry Pi ve Linux kullanımını da öğrenmiş oldum.
+          - Linux
+          - Python
+          - Robot Operating System
+          - Raspberry Pi
+          - Arduino
+          - OOP Nesne Yönelimli Programlama
+          - Görüntü İşleme
+          - Ekip Çalışması
+    - role: Ar-Ge / Stajyer
+      time: 02.2019 - 06.2019
+      company: SAMM Teknoloji A.Ş,GOSB/Kocaeli
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Bölümümüzün sistemi gereği 7 dönem zorunlu eğitim,1 dönem
+        ise zorunlu uzun dönem stajımız bulunmaktadır.Bu uzun dönem
+        stajımı Samm Teknoloji firmasının Ar-Ge departmanında
+        tamamladım. Bu firmada TÜBİTAK Bilgem ile beraber yürütülen,
+        fiber optik kablolardan data okuyan, sınır güvenliğini koruyan ve
+        bu sayede savunma sanayine destek olan bir projeyi IDEF fuarına
+        hazırladık.
+          - Altium
+          - Linux
+          - Python
+          - C#
+          - Java
+          - Raspberry Pi
+          - Arduino
+          - OOP Nesne Yönelimli Programlama
+    - role: Planlama / Stajyer
+      time: 07.2019 - 08.2019
+      company: Schneider Electric,TOSB/Kocaeli
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Okulumdaki eğitimimi tamamladıktan sonra geriye kalan son 30
+        iş günü süresi stajımı Schneider Electric firmasında
+        tamamladım. Şirketin planlama departmanında görevler aldım.
+        Müşterinin transformatörde olmasını istediği özelliklere
+        göre, siparişi verilen transformatörü hangi tarihte
+        tamamlanacağını hesaplayan bir yazılım programı
+        tasarladım.
+          - C#
+          - Ekip Çalışması
+          - OOP Nesne Yönelimli Programlama
+          - .Net
+          - Planlama ve Tedarik
+    - role: Gömülü Yazılım ve Sistemler / Elektronik Yazılım Mühendisi
+      time: 12.2019 - 05.2022
+      company: Arge Bilişim Ltd. Şti.,Sultanbeyli/İstanbul
+      details: |
+        Arge Bilişim firmasının Gömülü Yazılım ve Sistemler Tasarımı
+        departmanında Elektronik Yazılım mühendisi olarak görev aldım.
+        Kablosuz haberleşmesini anteni ve LoRa protokolü üzerinden
+        sağlayan RF veri toplama terminallerinin devrelerini tasarlayan ekipte yer
+        aldım. Donanım tarafında Proteus programı ile güç,USBHub,RS232-UART,DPI-I2C arayüzlü TFT dokunmatik ekran ve
+        alçak-yüksek geçiren PWM ses devrelerini çizerek kendi PCB
+        kartlarımızı tasarladık ve ürettik. Yazılımda ise Qt Framework
+        aracılığıyla grafiklerle zenginleştirilmiş arayüzler tasarladım ve
+        C++ dilini kullanarak OOP mantığı ile algoritmalar geliştirdim. Askerlik hizmetimi tamamlamak amacıyla
+        iş yerimden ayrıldım.
+          - Qt Framework
+          - Proteus 
+          - PCB Tasarımı
+          - Linux
+          - C++
+          - C
+          - Raspberry Pi
+          - Arduino
+          - OOP Nesne Yönelimli Programlama
+          - Ekip Çalışması
+          - I2C,RS232,UART,DPI
+          - USB,USART,SPI,PWM
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Üzerinde çalıştığım ve geliştirdiğim projeleri bu kısımda inceleyebilirsiniz.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: LoRa ve WiFi Tabanlı Dokunmatik TFT RF Veri Toplama Terminali @rge Hypatia 
+        link: "https://www.youtube.com/watch?v=EomXU4ctLNs"
+        tagline: "@rge HYPATIA, fabrikalarda verimliliği ve kaliteyi arttırmak amacıyla Arge Bilişim firmasında çalışırken donanım ve yazılım olarak geliştirdiğimiz endüstriyel ve dokunmatik bir IOT veri toplama terminalidir. Video, resim ve ses dosyalarını yürütme özelliğine sahiptir. Ses çıkışı kulaklık ve hoparlör ile sağlanır. RFID, barkod ve karekod gibi verileri gerçek zamanda toplar. Kablolu veya kablosuz bir şekilde Wi-Fi ağına bağlanabilir. RS232 ve USB protokollerini kullanarak haberleşir.
+        Ayrıca üzerinde çok güçlü bir RF haberleşme sistemi vardır ve sistem sayesinde 5 KM mesafeye kadar kablosuz haberleşebilir. Bu yüzden Wi-Fi haberleşmesi kesilse dahi real-time veri toplamaya devam eder. "
+    
+      - title: Schneider Electric ADH LTO Configurator
+        link: "https://drive.google.com/file/d/1Ty3y6N0M81PLfpqzDQZ0xP2HGS0W_R2E/view"
+        tagline: "Schneider Electric firmasında kullanılmak üzere, müşterinin transformatörde olmasını istediği özelliklere göre, siparişi verilen transformatörün hangi tarihte tamamlanacağını hesaplayan C# dili ile yazdığım bir programdır."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Automatic PC Shutdown
+        link: "https://drive.google.com/file/d/1QdVpTf8d10EBAKSpsoRGqvixWXe1SDNe/view"
+        tagline: "Kişisel bilgisayarı belli bir sürenin sonunda veya belirlenen bir saatte geri sayım olarak kapatmayı sağlayan C# dili ile yazdığım bir programdır."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: ROS ve Raspberry Pi Görüntü İşleme Tabanlı Otonom RC Araç
+        tagline: "Raspberry Pi 3B+ kartı ile Robot Operating System tabanlı, kameradan aldığı görüntüleri işleyerek bu görüntülere göre hareket eden otonom RC tipi araç projesidir."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Çöp Toplayan Robot
+        tagline: "Üzerinde aynı zamanda çizgi sensörü taşıyan ve belirli bir bölgedeki nesneleri mesafe sensörü yardımıyla tespit edip toplayan Arduino tabanlı geliştirdiğim bir robot projesidir."
+
+      - title: Meyve ve Sebze Kurutma Sera Otomasyonu
+        tagline: "Meyve ve sebzelerin kurutulurken güneşten maksimum ışık alması adına tasarlanmış, bulunduğu zeminin sürekli olarak ışığı takip ettiği Arduino tabanlı geliştirdiğim bir projedir."
 
 publications:
-    title: Publications
+    title: Referanslar
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Referanslarıma ait bilgileri bu kısımda bulabilirsiniz.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Ferhad KALELİ
+        link: "https://tr.linkedin.com/in/ferhadkaleli"
+        authors: ROBSEN Robotics | Müdür
+        #conference: 0554
+        
+      - title: Kerim ŞAHİN
+        link: "https://tr.linkedin.com/in/kerim-sahin"
+        authors: SAMM Teknoloji A.Ş. | Mühendis
+        #conference: 0542
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Mehmet ATALI
+        link: "https://tr.linkedin.com/in/mehmet-atali-mba-34644433"
+        authors: Schneider Electric | Yönetici
+        #conference: 0530
+        
+      - title: Meryem YILMAZ
+        link: "https://tr.linkedin.com/in/meryem-fatma-yilmaz"
+        authors: Arge Bilişim Ltd. Şti. | Mühendis
+        #conference: 0545
 
 skills:
-    title: Skills &amp; Proficiency
+    title: YETENEKLER
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Linux,Qt,C++
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: I2C,RS232,UART,DPI
+        level: 100%
 
-      - name: Angular
-        level: 98%
+      - name: Raspberry Pi,Arduino
+        level: 100%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: USB,USART,C#,Python
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: C,OOP,Proteus,PWM
+        level: 70%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Altium,SPI,Java,ROS
+        level: 50%
+
