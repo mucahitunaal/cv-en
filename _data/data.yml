@@ -126,13 +126,13 @@ projects:
         tagline: "It is a program that I wrote in C# language that allows turning off the personal computer at the end of a certain time or at a specified time as a countdown."
 
 
-      - title: ROS ve Raspberry Pi Görüntü İşleme Tabanlı Otonom RC Araç
+      - title: ROS and Raspberry Pi Imaging Processing Based Autonomous RC Vehicle
         tagline: "It is an autonomous RC type vehicle project based on the Raspberry Pi 3B+ card and Robot Operating System, which processes the images it receives from the camera and acts according to these images."
 
-      - title: Çöp Toplayan Robot
+      - title: Object Collector Robot
         tagline: "It is an Arduino-based robot project that I have developed, which also carries a line sensor and detects and collects objects in a certain area with the help of a distance sensor."
 
-      - title: Meyve ve Sebze Kurutma Sera Otomasyonu
+      - title: Fruit and Vegetable Drying Greenhouse Automation
         tagline: "It is an Arduino-based project that I developed, designed to get maximum light from the sun while drying fruits and vegetables, and where the ground is constantly following the light."
 
 publications:
