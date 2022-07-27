@@ -29,62 +29,49 @@ sidebar:
     pdf: 
 
     languages:
-      - idiom: İngilizce
+      - idiom: English
         level: B1
 
-      - idiom: Almanca
+      - idiom: German
         level: A1
 
     interests:
-      - item: Teknoloji
+      - item: Technology
         link:
 
-      - item: Satranç
+      - item: Chess
         link:
 
-      - item: Kamping
+      - item: Camping
         link:
 
 career-profile:
-    title: HAKKIMDA
+    title: ABOUT
     summary: |
-      10.10.1997 tarihinde Gebze’de doğdum. Gebze’de ailemle birlikte ikamet etmekteyim. Sürekli olarak geliştirmeyi, araştırmayı seven ve öğrenmeye hevesli birisiyim.
+      I was born on 10.10.1997 in Gebze. I live in Gebze with my family. I am a person who likes to constantly develop, research and is eager to learn.
 education:
-    - degree: Elektrik-Elektronik Mühendisliği
-      university: Süleyman Demirel Üniversitesi
+    - degree: Electrical Electronics Engineering
+      university: Süleyman Demirel University
       time: 2015 - 2019
 experiences:
-    - role: Ar-Ge / Stajyer
+    - role: R&D / Intern
       time: 06.2018 - 09.2018
       company: Robsen Robotics,GOSB Teknopark/Kocaeli
       details: |
-        Bölümümüzde bulunan 30 günlük stajımı bu firmada
-        tamamladım. Burada ROS (Robot Operating System) ve iyi
-        seviyede Python dilini öğrendim. Zorunlu stajım 30 gün olmasına
-        rağmen gönüllü olarak 90 gün staj yaptım. Staj boyunca yalnızca
-        kameralardan aldığı datalara göre path belirleyen, görüntü
-        işleme temelli, Raspberry Pi ve ROS tabanlı bir otonom araç
-        tasarladım. Bu proje sayesinde ileri seviyede görüntü
-        işleme,Raspberry Pi ve Linux kullanımını da öğrenmiş oldum.
+        I completed my 30 day internship in this company, which is in the regulation of our school. Here I learned ROS (Robot Operating System) and a good level of Python language. Although my compulsory internship is 30 days, I voluntarily interned for 90 days. During the internship, I designed an autonomous vehicle based on Raspberry Pi and ROS, which determines the path only according to the data received from the cameras. Thanks to this project, I learned advanced image processing, Raspberry Pi and Linux usage.
           - Linux
           - Python
           - Robot Operating System
           - Raspberry Pi
           - Arduino
-          - OOP Nesne Yönelimli Programlama
-          - Görüntü İşleme
-          - Ekip Çalışması
-    - role: Ar-Ge / Stajyer
+          - Object Oriented Programming
+          - Image Processing
+          - Teamwork
+    - role: R&D / Intern
       time: 02.2019 - 06.2019
       company: SAMM Teknoloji A.Ş,GOSB/Kocaeli
       details: |
-        Bölümümüzün sistemi gereği 7 dönem zorunlu eğitim,1 dönem
-        ise zorunlu uzun dönem stajımız bulunmaktadır.Bu uzun dönem
-        stajımı Samm Teknoloji firmasının Ar-Ge departmanında
-        tamamladım. Bu firmada TÜBİTAK Bilgem ile beraber yürütülen,
-        fiber optik kablolardan data okuyan, sınır güvenliğini koruyan ve
-        bu sayede savunma sanayine destek olan bir projeyi IDEF fuarına
-        hazırladık.
+        According to the regulations of our school, we have 7 semesters of compulsory education and 1 semester of compulsory long-term internship. I completed this long-term internship in the R&D department of Samm Teknoloji company. In this company, we prepared a project that reads data from fiber optic cables, protects border security and thus supports the defense industry, for IDEF, which is carried out together with TÜBİTAK Bilgem.
           - Altium
           - Linux
           - Python
@@ -92,105 +79,89 @@ experiences:
           - Java
           - Raspberry Pi
           - Arduino
-          - OOP Nesne Yönelimli Programlama
-    - role: Planlama / Stajyer
+          - Object Oriented Programming
+    - role: Planning / Intern
       time: 07.2019 - 08.2019
       company: Schneider Electric,TOSB/Kocaeli
       details: |
-        Okulumdaki eğitimimi tamamladıktan sonra geriye kalan son 30
-        iş günü süresi stajımı Schneider Electric firmasında
-        tamamladım. Şirketin planlama departmanında görevler aldım.
-        Müşterinin transformatörde olmasını istediği özelliklere
-        göre, siparişi verilen transformatörü hangi tarihte
-        tamamlanacağını hesaplayan bir yazılım programı
-        tasarladım.
+        After completing my education at my school, I completed my internship at Schneider Electric for the last 30 working days. I worked in the planning department of the company. I designed a software program that calculates the completion date of the ordered transformer according to the features that the customer wants in the transformer.
           - C#
-          - Ekip Çalışması
-          - OOP Nesne Yönelimli Programlama
-          - .Net
-          - Planlama ve Tedarik
-    - role: Gömülü Yazılım ve Sistemler / Elektronik Yazılım Mühendisi
+          - Teamwork
+          - Object Oriented Programming
+          - .NET
+          - Planning and Supply
+    - role: Embedded Software and Systems / Electronics Software Engineer
       time: 12.2019 - 05.2022
       company: Arge Bilişim Ltd. Şti.,Sultanbeyli/İstanbul
       details: |
-        Arge Bilişim firmasının Gömülü Yazılım ve Sistemler Tasarımı
-        departmanında Elektronik Yazılım mühendisi olarak görev aldım.
-        Kablosuz haberleşmesini anteni ve LoRa protokolü üzerinden
-        sağlayan RF veri toplama terminallerinin devrelerini tasarlayan ekipte yer
-        aldım. Donanım tarafında Proteus programı ile güç,USBHub,RS232-UART,DPI-I2C arayüzlü TFT dokunmatik ekran ve
-        alçak-yüksek geçiren PWM ses devrelerini çizerek kendi PCB
-        kartlarımızı tasarladık ve ürettik. Yazılımda ise Qt Framework
-        aracılığıyla grafiklerle zenginleştirilmiş arayüzler tasarladım ve
-        C++ dilini kullanarak OOP mantığı ile algoritmalar geliştirdim. Askerlik hizmetimi tamamlamak amacıyla
-        iş yerimden ayrıldım.
+        I worked as an Electronic Software Engineer in the Embedded Software and Systems Design department of Arge Bilişim. I took part in the team that designed the circuits of the RF data collection terminals that provide wireless communication via antenna and LoRa protocol. On the hardware side, we designed and produced our own PCB boards by drawing power, USBHub, RS232-UART, TFT touch screen with DPI-I2C interface and low-high pass PWM audio circuits with Proteus program. In software, I designed interfaces enriched with graphics through Qt Framework and developed algorithms with OOP logic using C++ language. I left my job in order to complete my military service.
           - Qt Framework
           - Proteus 
-          - PCB Tasarımı
+          - PCB Design
           - Linux
           - C++
           - C
           - Raspberry Pi
           - Arduino
-          - OOP Nesne Yönelimli Programlama
-          - Ekip Çalışması
+          - Object Oriented Programming
+          - Teamwork
           - I2C,RS232,UART,DPI
           - USB,USART,SPI,PWM
 
 projects:
     title: Projects
     intro: >
-      Üzerinde çalıştığım ve geliştirdiğim projeleri bu kısımda inceleyebilirsiniz.
+      You can review the projects I have worked on and developed in this section.
     assignments:
-      - title: LoRa ve WiFi Tabanlı Dokunmatik TFT RF Veri Toplama Terminali @rge Hypatia 
+      - title: LoRa and WIFI Based Touch TFT RF Data Collection Terminal @rge Hypatia 
         link: "https://www.youtube.com/watch?v=EomXU4ctLNs"
-        tagline: "@rge HYPATIA, fabrikalarda verimliliği ve kaliteyi arttırmak amacıyla Arge Bilişim firmasında çalışırken donanım ve yazılım olarak geliştirdiğimiz endüstriyel ve dokunmatik bir IOT veri toplama terminalidir. Video, resim ve ses dosyalarını yürütme özelliğine sahiptir. Ses çıkışı kulaklık ve hoparlör ile sağlanır. RFID, barkod ve karekod gibi verileri gerçek zamanda toplar. Kablolu veya kablosuz bir şekilde Wi-Fi ağına bağlanabilir. RS232 ve USB protokollerini kullanarak haberleşir.
-        Ayrıca üzerinde çok güçlü bir RF haberleşme sistemi vardır ve sistem sayesinde 5 KM mesafeye kadar kablosuz haberleşebilir. Bu yüzden Wi-Fi haberleşmesi kesilse dahi real-time veri toplamaya devam eder. "
+        tagline: "@rge HYPATIA is an industrial and touch IOT data collection terminal that we developed as hardware and software while working at Arge Bilişim company in order to increase efficiency and quality in factories. It has the ability to play video, image and audio files. Audio output is provided by headphones and speakers. It collects RFID,barcode and qrcode data in real time. It can be connected to the Wi-Fi network either wired or wirelessly. It communicates using RS232 and USB protocols. It also has a very powerful RF communication system on it and can communicate wirelessly at a distance of up to 5 KM thanks to the system. Therefore, it continues to collect real-time data even if the Wi-Fi communication is lost."
     
       - title: Schneider Electric ADH LTO Configurator
         link: "https://drive.google.com/file/d/1Ty3y6N0M81PLfpqzDQZ0xP2HGS0W_R2E/view"
-        tagline: "Schneider Electric firmasında kullanılmak üzere, müşterinin transformatörde olmasını istediği özelliklere göre, siparişi verilen transformatörün hangi tarihte tamamlanacağını hesaplayan C# dili ile yazdığım bir programdır."
+        tagline: "It is a program I wrote in C# for use in Schneider Electric company, which calculates the completion date of the ordered transformer, according to the features that the customer wants in the transformer."
 
       - title: Automatic PC Shutdown
         link: "https://drive.google.com/file/d/1QdVpTf8d10EBAKSpsoRGqvixWXe1SDNe/view"
-        tagline: "Kişisel bilgisayarı belli bir sürenin sonunda veya belirlenen bir saatte geri sayım olarak kapatmayı sağlayan C# dili ile yazdığım bir programdır."
+        tagline: "It is a program that I wrote in C# language that allows turning off the personal computer at the end of a certain time or at a specified time as a countdown."
 
 
       - title: ROS ve Raspberry Pi Görüntü İşleme Tabanlı Otonom RC Araç
-        tagline: "Raspberry Pi 3B+ kartı ile Robot Operating System tabanlı, kameradan aldığı görüntüleri işleyerek bu görüntülere göre hareket eden otonom RC tipi araç projesidir."
+        tagline: "It is an autonomous RC type vehicle project based on the Raspberry Pi 3B+ card and Robot Operating System, which processes the images it receives from the camera and acts according to these images."
 
       - title: Çöp Toplayan Robot
-        tagline: "Üzerinde aynı zamanda çizgi sensörü taşıyan ve belirli bir bölgedeki nesneleri mesafe sensörü yardımıyla tespit edip toplayan Arduino tabanlı geliştirdiğim bir robot projesidir."
+        tagline: "It is an Arduino-based robot project that I have developed, which also carries a line sensor and detects and collects objects in a certain area with the help of a distance sensor."
 
       - title: Meyve ve Sebze Kurutma Sera Otomasyonu
-        tagline: "Meyve ve sebzelerin kurutulurken güneşten maksimum ışık alması adına tasarlanmış, bulunduğu zeminin sürekli olarak ışığı takip ettiği Arduino tabanlı geliştirdiğim bir projedir."
+        tagline: "It is an Arduino-based project that I developed, designed to get maximum light from the sun while drying fruits and vegetables, and where the ground is constantly following the light."
 
 publications:
-    title: Referanslar
+    title: References
     intro: |
-      Referanslarıma ait bilgileri bu kısımda bulabilirsiniz.
+      You can find information about my references in this section.
     papers:
       - title: Ferhad KALELİ
         link: "https://tr.linkedin.com/in/ferhadkaleli"
-        authors: ROBSEN Robotics | Müdür
+        authors: ROBSEN Robotics | Director
         #conference: 0554
         
       - title: Kerim ŞAHİN
         link: "https://tr.linkedin.com/in/kerim-sahin"
-        authors: SAMM Teknoloji A.Ş. | Mühendis
+        authors: SAMM Teknoloji A.Ş. | Engineer
         #conference: 0542
 
       - title: Mehmet ATALI
         link: "https://tr.linkedin.com/in/mehmet-atali-mba-34644433"
-        authors: Schneider Electric | Yönetici
+        authors: Schneider Electric | Manager
         #conference: 0530
         
       - title: Meryem YILMAZ
         link: "https://tr.linkedin.com/in/meryem-fatma-yilmaz"
-        authors: Arge Bilişim Ltd. Şti. | Mühendis
+        authors: Arge Bilişim Ltd. Şti. | Engineer
         #conference: 0545
 
 skills:
-    title: YETENEKLER
+    title: SKILLS
 
     toolset:
       - name: Linux,Qt,C++
